@@ -1,4 +1,4 @@
-##### OC排序
+### OC排序
 
 - NSOrderedAscending：对比之后顺序排
 
@@ -49,4 +49,10 @@ NSMutableArray *messageList = [@[@{@"sendTime":@"1.3"},@{@"sendTime":@"1.2"},@{@
 ```
 
 
+
+###github远程仓库设置token
+
+```bash
+git remote set-url origin https://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@github.com/FireMapleLeaves/yb-Docs.git
+```
 
